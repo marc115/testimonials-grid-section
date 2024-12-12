@@ -20,7 +20,8 @@ const config: Config = {
       colors: {
         'light-grayish-blue': 'hsl(210, 46%, 95%)',
         'moderate-violet': 'hsl(263, 55%, 52%)',
-        'very-dark-grayish-blue': 'hsl(217, 19%, 35%)'
+        'very-dark-grayish-blue': 'hsl(217, 19%, 35%)',
+        'very-dark-blackish-blue': 'hsl(219, 29%, 14%)'
       }
     },
   },
