@@ -15,12 +15,12 @@ export const TestimonialsSection = () => {
                 </div>
 
                 <h1 className="text-3xl">I received a job offer mid-course, and the subjects I learned were current, if not more so, in
-                    the company I joined. I honestly feel I got every penny's worth</h1>
+                    the company I joined. I honestly feel I got every penny&apos;s worth</h1>
 
-                <p className="opacity-50">&quot;I was an EMT for many years before I joined the bootcamp. I've been looking to make a transition
+                <p className="opacity-50">&quot;I was an EMT for many years before I joined the bootcamp. I&apos;ve been looking to make a transition
                     and have heard some people who had an amazing experience here. I signed up for the free intro course and fount it incredibly fun!
                     I enrolled shortly thereafter. The next 12 weeks was the best - and most grueling - time of my life. Since completing the course,
-                    I've successfully switched careers, working as a Software Engineer at a VR startup.&quot;
+                    I&apos;ve successfully switched careers, working as a Software Engineer at a VR startup.&quot;
                 </p>
             </div>
 
@@ -36,7 +36,7 @@ export const TestimonialsSection = () => {
                 </h1>
 
                 <p className="opacity-50">&quot;I started as a total newbie with virtually no coding skills. I now work as a mobile engineer for a big
-                    company. This was one of the best investments I've made for myself.&quot;
+                    company. This was one of the best investments I&apos;ve made for myself.&quot;
                 </p>
             </div>
 
@@ -52,11 +52,11 @@ export const TestimonialsSection = () => {
                 </h1>
 
                 <p className="opacity-50">&quot;
-                    Before joining the bootcamp, I've never written a line of code. I needed some structure from professionals who can help me learn
+                    Before joining the bootcamp, I&apos;ve never written a line of code. I needed some structure from professionals who can help me learn
                     programming step by step. I was encouraged to enroll by a former student of theirs who only say powerful things about the program.
                     The entire curriculum and staff did not dissapoint. They were very hands-on and I never had to wait long for assistance. The agile
                     team project, in particular, was outstanding. It took my learning to the next level in a way that no tutorial could ever have. In
-                    fact, I've often referred to it during interviews as an example of my developer experience. It certainly helped me land a job as a
+                    fact, I&apos;ve often referred to it during interviews as an example of my developer experience. It certainly helped me land a job as a
                     full-stack developer after receiving multiple offers. 100% recommend!
                     &quot;
                 </p>
